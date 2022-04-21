@@ -1,0 +1,19 @@
+The BAR Website V1.062 (Fixed) | Updated 4/20/22
+
+-Removed April fools update.
+    -Removed troll face logos.
+    -Archived prank page.
+-Recreated/redesigned the login page.
+-Added new meme of the week.
+-Added new content on the news snippet.
+-(Not part of the website) Add a music folder in the main BAR folder. You can add any music you want as long as it is appropriate.
+-Added the music player app. Any music you want to add should be put in the main music folder.
+-Changed main font to Montserrat.
+-Added new games.
+	-Added MessCraft
+	-Added 2048
+	-Added Cookie Clicker
+	-Added The Dino Game
+	-New mod version of geometry dash (Not included in current package)
+-Added support file
+-Fixed bugs reported by the beta testers.
